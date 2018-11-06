@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Mo Cassidy</Authors>
+    <RepositoryUrl>https://github.com/Balfa/Ninject.Extensions.FluentModules</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/Balfa/Ninject.Extensions.FluentModules</PackageProjectUrl>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/Balfa/Ninject.Extensions.FluentModules/master/LICENSE</PackageLicenseUrl>
+    <PackageTags>ninject fluent</PackageTags>
+    <PackageId>Ninject.Extensions.FluentModules</PackageId>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
